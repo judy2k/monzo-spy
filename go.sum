@@ -1,0 +1,8 @@
+github.com/dgrijalva/jwt-go v3.2.0+incompatible h1:7qlOGliEKZXTDg6OTjfoBKDXWrumCAMpl/TFQ4/5kLM=
+github.com/dgrijalva/jwt-go v3.2.0+incompatible/go.mod h1:E3ru+11k8xSBh+hMPgOLZmtrrCbhqsmaPHjLKYnJCaQ=
+github.com/google/go-querystring v1.0.0 h1:Xkwi/a1rcvNg1PPYe5vI8GbeBY/jrVuDX5ASuANWTrk=
+github.com/google/go-querystring v1.0.0/go.mod h1:odCYkC5MyYFN7vkCjXpyrEuKhc/BUO6wN/zVPAxq5ck=
+github.com/judy2k/nexmo-go v0.0.0-20181011103223-13abe96e3299 h1:dhweQPPtp6z9+ojIBOrPySy/2hEUt7pNdW6ql+2GDfU=
+github.com/judy2k/nexmo-go v0.0.0-20181011103223-13abe96e3299/go.mod h1:/fbuqQKPJksJW5+Yajv7BiAe+dAydY3b9XPS6FOYuLk=
+github.com/nexmo-community/nexmo-go v0.0.0-20181011103223-13abe96e3299 h1:e5tLho2bYT3KlHyKUlx8/F1XLIY0EdSaSwwK+KnnW9k=
+github.com/nexmo-community/nexmo-go v0.0.0-20181011103223-13abe96e3299/go.mod h1:j9Ptl/5wtpdo2Jb0ZqP2p7AOMM8aZe9/3y7UiqLlT8g=
